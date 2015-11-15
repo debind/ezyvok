@@ -1,0 +1,138 @@
+senator:Senator
+forum:Markplatz, Forum, Öffentlichkeit
+properare, porperat:eilen, sich beeilen
+nam:denn, nämlich
+ibi:dort
+curia:Kurie, Rathaus
+esse, est:sein
+hic:hier
+turba:Menschenmenge, Lärm, Verwirrung
+stare, stat:stehen
+et:und, auch
+clamare, clamat:laut rufen, schreien
+ave:sei gegrüßt
+gaudere, gaudet:sich freuen
+salve:sei gegrüßt
+salvete:seid gegrüßt
+subito:plötzlich
+servus:Sklave
+adesse, adest:da sein
+rogare, rogat:fragen
+ubi:wo
+ridere, ridet:lachen, auslachen
+tum:da, damals, darauf, dann
+==========================:==========================
+hodie:Heute
+circus:Zircus, Rennbahn
+ludus:Spiel, Wettkampf, Schule
+sunt:sie sind
+sed:aber, sondern
+amicus:Freund
+diu:lange Zeit
+exspectare, exspectat:warten, erwarten
+tandem:endlich
+populus:Volk
+etiam:auch, sogar
+nunc:nun, jetzt
+tacere, tacet:schweigen
+porta:Tor
+patere, patet:offenstehen, sich erstrecken
+equus:Pferd
+accedere, accedit:herbeikommen, hinzukommen
+denique:schließlich, endlich
+signum:Merkmal, Zeichen
+vocare, vocat:rufen, nennen
+victor m:Sieger
+ecce:schau!, schaut!, seht da!, sieh da!
+praemium:Belohnung, Lohn, Preis
+==========================:==========================
+ad:an, bei, nach, zu
+per:durch, hindurch
+amica:Freundin
+videre, vedet:sehen, darauf achten
+petere, petit:(auf)suchen, bitten, verlangen
+templum:Tempel
+aedificium:Gebäude
+spectare, spectat:betrachten, hinsehen
+basilica:Basilika, Halle
+intrare, intrat:betreten, eintreten
+merctor, mercatorem m:Kaufmann, Händler
+contendere, contendit:eilen, sich anstrengen
+bestia:Tier
+vendere, vendit:verkaufen
+ante Präp. m. Akk.:vor
+taberna:Laden, Werkstatt, Gasthaus
+statim:auf der Stelle, sofort
+in:in
+delectare, delectat:erfreuen, unterhalten
+mulier, mulierem f:Frau
+autem:aber, andererseites
+clamor, clamorem m:Geschrei, Lärm
+tollere, tollit:aufheben, in die Höhe erheben, wegnehmen
+clamorem tollere:ein Geschrei erheben
+quid:was
+quis:wer
+itaque:deshalb
+relinquere, relinquit:unbeachtet lassen, verlassen, zurücklassen
+cur ?:warum
+apud:bei, nahe bei
+non:nicht
+iam:schon, nun
+non iam:nicht mehr
+==========================:==========================
+in:in, an, auf, bei
+cum Präp. mit Abl.:mit, zusammen mit
+thermae, thermas f Pl.:Thermen, Badeanlage
+vestis, vestem f:Kleid, Kleidung
+deponere, deponit:ablegen, niederlegen, aufgeben
+de Präp. m. Abl.:von, von .. herab, von .. her, über
+cogitare, cogitat:denken, beabsichtigen
+cogitare de m. Abl.:denken an
+amare, amat:lieben, gernhaben
+donum:Geschenk
+vult:er (sie, es) will
+laudare, laudat:loben
+te Akk.:dich
+certe Adv.:gewiss, sicherlich
+complere, complet:anfüllen, erfüllen
+senex, senem m:Greis, alter Mann
+vinum:Wein
+sumere, sumit:nehmen
+pro Präp. m. Abl.:anstelle von, für, vor
+pecunia:Geld, Vermögen
+fur, furem m:Dieb
+tantum:nur
+numquam:niemals
+uxor, uxorem f:Ehefrau
+adulescens, adulescentem m:junger Mann
+==========================:==========================
+consistere, consisto:haltmachen, sich aufstellen
+dubitare, dubito (m. Inf.):zögern
+respondere, respondeo:antworten, entsprechen
+undique Adv.:von allen Seiten
+circum Präp. m. Akk:um .. herum, rings um
+nuntius:Bote, Nachricht
+victoria:Sieg
+nuntiare, nuntio:melden
+e/ex Präp. m. Abl:aus, von .. her
+repente Adv.:plötzlich
+consul, consulem m:Konsul
+lictor, lictorem m:Liktor (Begleiter höherer Beamter und einiger Priester)
+palam Adv:bekannt, in aller Öffentlichkeit
+gaudere, gaudeo:sich freuen (über etwas)
+licet:es ist erlaubt, es ist möglich
+quod:weil, dass
+iniuria:Unrecht, Beleidigung, Gewalttat
+dolere, doleo (m. Abl.):schmerzen, bedauern, Schmerz empfinden (über etwas)
+barbarus:Ausländer, Barbar
+pugnare, pugno:kämpfen
+patria:Heimat
+arma, arma n Pl.:Waffen, Gerät
+defendere, defendo:verteidigen, abwehren, schützen
+deus:Gott, Gottheit
+colere, colo:bewirtschaften, pflegen, verehren
+debere, debeo:müssen, sollen, schulden
+sine Präp. m. Abl.:ohne
+periculum:Gefahr
+vivere, vivo:leben
+==========================:==========================

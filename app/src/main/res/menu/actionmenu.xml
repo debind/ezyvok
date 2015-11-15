@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+     <!-- Search, should appear as action button -->
+    <item android:id="@+id/ACTION_MENU_LANG"
+        android:icon="@drawable/icon2"
+        android:title="@string/TEXT_SELECT_LANGUAGE"
+        android:showAsAction="ifRoom" />
+    <item android:id="@+id/ACTION_MENU_DIFFICULT"
+    android:icon="@drawable/red_led_th32"
+    android:title="@string/TEXT_SELECT_LANGUAGE"
+    android:showAsAction="ifRoom" />
+</menu>

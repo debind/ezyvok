@@ -1,0 +1,27 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item
+        android:id="@+id/SAVETODIFFICULT"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/TEXT_SAVETODIFFICULT"/>
+    <item
+        android:id="@+id/DELETEDIFFICULT"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/TEXT_DELETEDIFFICULT"/>
+    <item
+        android:id="@+id/LOADDIFFICULT"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/TEXT_LOADDIFFICULT"/>
+    <item
+        android:id="@+id/BACKTOVOKS"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/TEXT_BACKTOVOKS"/>
+    <item
+        android:id="@+id/LOADVOK"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/TEXT_LOADVOK"/>
+</menu>

@@ -1,0 +1,64 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/LAYOUT"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/COLOR_BLACK"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".MainActivity" >
+
+    <TextView
+        android:id="@+id/TEXTVIEW_INFO"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:text="@string/TEXT_231"
+        android:textColor="@color/COLOR_ORANGE" />
+
+    
+    <TextView
+        android:id="@+id/TEXTVIEW_LANGUAGE1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/TEXTVIEW_INFO"
+        android:layout_marginTop="113dp"
+        android:text="@string/TEXT_CATHEDRAL"
+        android:textColor="@color/COLOR_GREEN"
+        android:textSize="24sp" />
+    
+    
+    <TextView
+        android:id="@+id/TEXTVIEW_LANGUAGE2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/TEXTVIEW_LANGUAGE1"
+        android:text="@string/TEXT_KATHEDRALE"
+        android:textColor="@color/COLOR_ORANGE"
+        android:textSize="24sp" />
+
+    
+
+    <TextView
+        android:id="@+id/TEXTVIEW_LECTION"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:text="@string/TEXT_LECTION" 
+        android:textColor="@color/COLOR_ORANGE" />
+
+    <TextView
+        android:id="@+id/TEXTVIEW_DIRECTION"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:text="@string/TEXT_DASH"
+        android:textColor="@color/COLOR_ORANGE" />
+      
+</RelativeLayout>

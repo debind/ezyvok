@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EzyVok</string>
+    <string name="TEXT_SETTINGS">Settings</string>
+    <string name="TEXT_SELECT_LANGUAGE">Sprache auswählen</string>
+    <string name="TEXT_LECTION">nichts geladen !</string>
+    <string name="TEXT_DASH">-</string>
+    <string name="TEXT_CATHEDRAL">bitte zuerst Vokabeln laden !</string>
+    <string name="TEXT_KATHEDRALE"></string>
+    <string name="TEXT_FW">"fw"</string>
+    <string name="TEXT_BW">"bw"</string>
+    <string name="TEXT_231">0/0</string>
+    <string name="TEXT_LOADDIFFICULT">schwere Vokabeln laden</string>
+    <string name="TEXT_DELETEDIFFICULT">schwere Vokabeln löschen</string>
+    <string name="TEXT_SAVETODIFFICULT">Vokabel als schwer speichern</string>
+    <string name="TEXT_BACKTOVOKS">zurück zu letzen Vokabeln</string>
+    <string name="TEXT_LOADVOK">neue Vokabeln laden</string>
+    <color name="COLOR_BLACK">#000000</color>
+    <color name="COLOR_GREEN">#00FF00</color>
+    <color name="COLOR_ORANGE">#AA8888</color>
+    <string name="enterFileName">Enter file name:</string>
+    <string name="saveButtonText">Save</string>
+    <string name="cancelButtonText">Cancel</string>
+    <string name="newFolderButtonText">New folder</string>
+    <string name="newFolderDialogMessage">Create new folder</string>
+    <string name="createButtonText">Create</string>
+    <string name="folderCreationOk">Folder created successfully</string>
+    <string name="folderCreationError">Error while creating folder</string>
+    <string name="accessDenied">Access denied</string>
+    <string name="cannotSaveFileMessage">Cannot save file</string>
+    <string name="missingFile">No such file</string>
+    <string name="information">Information</string>
+    <string name="fileNameFirstMessage">Please enter the file name first</string>
+    <string name="okButtonText">OK</string>
+    <string name="loadButtonText">Load</string>
+    
+</resources>
